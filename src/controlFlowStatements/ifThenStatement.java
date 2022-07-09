@@ -9,7 +9,7 @@ public class ifThenStatement {
 
         }
 
-        int topScore = 90;
+        int topScore = 95;
         int secondTopScore = 85;
         if (topScore > secondTopScore && topScore < 100) {
             System.out.println("Top Score is Greater than Second top Score and less than 100");
